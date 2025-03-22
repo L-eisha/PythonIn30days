@@ -136,6 +136,9 @@ secound=365*24*60*60
 yearlived=(1000*365*24*60*60)
 print(yearlived)
 
+#22 questions
+
+
 
 
 
