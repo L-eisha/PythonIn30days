@@ -69,3 +69,23 @@ if(w==4):
     print("done")
 
     #area
+# side=int(input("enter a no"))
+# print(side)
+# area=side*side
+# print(area)
+
+marks=[87,88,90,91,94,90,78]
+print(type(marks))
+print(len(marks))
+print(marks[5])
+marks[4]=100
+print(marks)
+print(marks[ :5])
+print(marks[5:6])
+print(marks.append(80))
+print(marks)
+
+print(marks.sort())
+print(marks)
+print(marks.sort(reverse=True))
+print(marks)
