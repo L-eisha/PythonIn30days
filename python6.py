@@ -89,3 +89,22 @@ print(marks.sort())
 print(marks)
 print(marks.sort(reverse=True))
 print(marks)
+
+
+greet="good morning"
+print(greet[: :-1])
+print(greet[0:5:3])
+
+#tuple
+tup=(20,35,40,50)
+print(tup[0])
+print(tup[3])
+print(tup[1:3])
+
+INFO={
+   "name ":"leisha",
+   "age": "20",
+   "class" :"cse ds",
+}
+print(INFO)
+print(type(INFO))
