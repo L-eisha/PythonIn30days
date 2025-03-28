@@ -40,5 +40,22 @@ print(student.values())
 print(student.items())
 print(student.get("n3"))
 print(student["n1"])
-(student.update({"n7":d"u"}))
+(student.update({"n7":"nnn"}))
 print(student)
+
+
+#SETS
+group={1,2,3,4}
+print(group)
+print(type(group))
+my={ }
+print(type(my))
+#empty set
+ty=set()
+print(type(ty))
+print(len(ty))
+
+print(group.add(9))
+print(group)
+print(group.remove(2))
+print(group)
