@@ -282,3 +282,12 @@ countries = [
   'Zambia',
   'Zimbabwe',
 ]
+print(len(countries))
+print(192/2)
+print(countries[96])
+print(countries[0:97])
+
+new=['China', 'Russia', 'USA', 'Finland', 'Sweden', 'Norway', 'Denmark']
+print(new[0:3])
+
+
