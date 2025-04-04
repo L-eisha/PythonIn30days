@@ -287,3 +287,20 @@ while a<=10:
 # 45
 # 50
 
+s=1
+while s<=10:
+    print(s*s)
+    s=s+1
+print("loop ended")
+# 1
+# 4
+# 9
+# 16
+# 25
+# 36
+# 49
+# 64
+# 81
+# 100
+# loop ended
+
