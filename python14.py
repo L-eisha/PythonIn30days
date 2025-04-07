@@ -26,3 +26,19 @@ while count < 5:
     count = count + 1
     if count == 3:
         break
+
+count = 0
+while count < 5:
+    if count == 3:
+        count = count + 1
+        continue
+    print(count)
+    count = count + 1
+
+    # for Loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).
+
+numbers = [0, 1, 2, 3, 4, 5]
+for number in numbers: # number is temporary name to refer to the list's items, valid only inside this loop
+    print(number)       # the numbers will be printed line by line, from 0 to 5
+
+    
