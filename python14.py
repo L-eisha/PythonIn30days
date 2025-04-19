@@ -26,6 +26,8 @@ while count < 5:
     count = count + 1
     if count == 3:
         break
+    print("end of loop")
+# BREAK= used to terminate the loop 
 
 count = 0
 while count < 5:
@@ -34,7 +36,7 @@ while count < 5:
         continue
     print(count)
     count = count + 1
-
+# CONTINUE= terminate execution in current loop and starts in next one
     # for Loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).
 
 numbers = [0, 1, 2, 3, 4, 5]
