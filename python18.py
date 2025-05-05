@@ -37,3 +37,25 @@ print(sum_of_numbers(100))
 # None
 # 5050
 # None
+
+  # syntax
+
+
+ 
+ 
+def generate_full_name ():
+    first_name = 'Leisha'
+    last_name = 'Choudhary'
+    space = ' '
+    full_name = first_name + space + last_name
+    print(full_name)
+generate_full_name () # calling a function
+
+def add_two_numbers ():
+    num_one = 24
+    num_two = 34
+    total = num_one + num_two
+    print(total)
+add_two_numbers()
+# Leisha Choudhary
+# 58
