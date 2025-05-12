@@ -91,3 +91,8 @@ print('Weight of an object in Newtons: ', weight_of_object(100, 1.62)) # gravity
 # Age:  200
 # Weight of an object in Newtons:  981.0 N
 # Weight of an object in Newtons:  162.0 N
+
+print(12+3)
+
+
+print(2 ** 3 ** 0)
