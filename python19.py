@@ -25,3 +25,6 @@ def square_number (n):
 def do_something(f, x):
     return f(x)
 print(do_something(square_number, 3)) # 9
+
+print(type(str(5) + str(2.0)))
+a = int(input("enter a value " ))
